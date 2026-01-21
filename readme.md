@@ -46,3 +46,6 @@ python ./visualize.py
 # for ruler
 bash ./scripts/eval_ruler.sh
 python .scripts/copy_results_ruler.py
+
+## Paper
+https://arxiv.org/abs/2511.17560
